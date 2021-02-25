@@ -1,7 +1,7 @@
 # PageRank
 
-##### Calcan Elena-Claudia&nbsp; 
-311CA
+##### Calcan Elena-Claudia<br/>
+##### 311CA
 
 1. Algoritmul Iterative
 ------------------------------------------------------------------------------
